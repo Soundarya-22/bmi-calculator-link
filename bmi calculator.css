@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(61, 167, 161);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    width: 450px;
+    height: 300px;
+    border: 5px solid black;
+    margin-top: 100px;
+    margin-left: 250px;
+}
+label{
+    padding: 10px;
+    padding-top: 20px;
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+input{
+    padding: 5px;
+    margin: 5px;
+    margin-top: 40px;
+    border: 2px solid black;
+    font-size:15px;
+    font-family:'Courier New', Courier, monospace;
+    color: black;
+}
+button{
+    padding: 5px;
+    margin-left: 210px;
+    margin-top: 30px;
+    background-color: green;
+    color: rgb(250, 246, 246);
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:22px;
+
+}
+form{
+    background-color: rgb(236, 103, 15);
+    height: 300px;
+    width: 450px;
+}
